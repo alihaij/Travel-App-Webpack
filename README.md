@@ -6,24 +6,8 @@
 
 # npm install - run this to install all required packages
 
-# make sure your port 8089 is available
+# make sure your port 3000 is available
 
 # npm start
 
-# enter city name
 
-# enter your travel destination
-
-### Langauges, frameworks and tools used
-
-# HTML
-
-# CSS(SASS)
-
-# JavaScript
-
-# Node.js(Express)
-
-# Webpack
-
-# Babel
